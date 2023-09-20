@@ -18,7 +18,7 @@ Esta permissão não lhe garante o direito de uso comercial deste código como e
 2. *Deve ser incluída referência ao repositório original (GitHub) na aplicação ou na documentação associada, seguindo as regras a seguir:*
 
     - indicação clara de que você não é o criador original deste código.
-    - Incluir o [link do repositório original](https://github.com/MrEddwolf/bot_discord_com_cogs).
+    - Incluir o [link do repositório original](https://github.com/MrEddwolf/exemplos_de_bot_com_cogs).
 
 3. *Qualquer modificação do código será devidamente documentada.*
 
