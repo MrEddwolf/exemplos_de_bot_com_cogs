@@ -1,6 +1,6 @@
 # Exelplo de Bot Discord com Cogs e comandos hibridos.
 
-### O uso deste projeto requer atribuição, leia a [Licença MIT](https://github.com/MrEddwolf/bot_discord_com_cogs/blob/main/lisense.md) com atenção:
+### O uso deste projeto requer atribuição, leia a [Licença MIT](https://github.com/MrEddwolf/exemplos_de_bot_com_cogs/blob/main/lisense.md) com atenção:
 
 Este é um projeto basico, com **3 exemplo de bot Discord com cogs**, que desenvolvido em `Python` usando a biblioteca `discord.py`.
 
@@ -135,7 +135,7 @@ Os arquivos deste projeto estão dispostos como na representação abaixo:
 
 <pre>
   <code>
-    <span>git clone https://github.com/MrEddwolf/cogs-no-diretorio-raiz</span>
+    <span>git clone https://github.com/MrEddwolf/exemplos_de_bot_com_cogs</span>
   </code>
 </pre>
 
@@ -205,6 +205,6 @@ Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestõe
 
 ### Licença: 
 
-Este projeto está licenciado sob a [Licença MIT](https://github.com/MrEddwolf/bot_discord_com_cogs/blob/main/lisense.md).
+Este projeto está licenciado sob a [Licença MIT](https://github.com/MrEddwolf/exemplos_de_bot_com_cogs/blob/main/lisense.md).
 
 Lembre-se de que este bot Discord está sujeito aos Termos de Serviço e Diretrizes da API do Discord. Você é responsável por cumprir todas as obrigações legais e diretrizes aplicáveis ao uso deste bot Discord.
