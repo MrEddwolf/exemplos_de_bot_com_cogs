@@ -1,4 +1,4 @@
-# Exelplo de Bot Discord com Cogs e comandos hibridos.
+# Exemplo de Bot Discord com Cogs e comandos hibridos.
 
 ### O uso deste projeto requer atribuição, leia a [Licença MIT](https://github.com/MrEddwolf/exemplos_de_bot_com_cogs/blob/main/lisense.md) com atenção:
 
