@@ -1,0 +1,8 @@
+# Ignorar pastas __pycache__ no diretório raiz e subdiretórios contendo módulos de cogs
+__pycache__/
+
+# Ignorar pastas  de configuração do vscode
+.vscode/
+
+# Ignorar arquivos .pyc no diretório raiz e subdiretórios contendo módulos de cogs
+*.pyc
